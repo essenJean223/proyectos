@@ -37,13 +37,13 @@ header{
     border-radius: 2%;
 }
 
+
 .proyectos a{
     color: white;
     text-decoration: none;
 }
 
 .proyectos img{
-    min-width: 50%;
     max-width: 100%;
 }
 
